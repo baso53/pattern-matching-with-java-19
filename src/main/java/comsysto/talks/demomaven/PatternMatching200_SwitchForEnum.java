@@ -10,7 +10,7 @@ enum DayOfWeek {
   SUNDAY
 }
 
-public class PatternMatching200_Switch {
+public class PatternMatching200_SwitchForEnum {
 
   public static void main(String[] args) {
     System.out.println(isWeekday(DayOfWeek.MONDAY));
