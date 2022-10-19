@@ -21,7 +21,7 @@ class Person {
   }
 }
 
-public class PatternMatching2_InstanceOfEquals {
+public class PatternMatching110_InstanceOfEquals {
 
   public static void main(String[] args) {
 

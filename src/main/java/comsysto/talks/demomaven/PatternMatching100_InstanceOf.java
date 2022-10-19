@@ -2,7 +2,7 @@ package comsysto.talks.demomaven;
 
 import java.math.BigDecimal;
 
-public class PatternMatching1_InstanceOf {
+public class PatternMatching100_InstanceOf {
 
   public static void main(String[] args) {
     System.out.println(handleObject("testString"));
