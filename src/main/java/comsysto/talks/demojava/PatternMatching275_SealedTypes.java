@@ -4,8 +4,8 @@
 //
 //
 //non-sealed interface Triangle extends Shape {}
-//final class Equilateral implements Triangle {}
-//final class Right implements Triangle {}
+//class Equilateral implements Triangle {}
+//class Right implements Triangle {}
 //
 //
 //final class Rectangle implements Shape {}
