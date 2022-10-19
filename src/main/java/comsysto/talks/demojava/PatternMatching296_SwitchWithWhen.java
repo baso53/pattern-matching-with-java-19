@@ -18,8 +18,8 @@
 //      case IntegerHolder(var i) when i < 10 -> i + " is small";
 //      case Integer i when i < 1000 -> i + " is medium";
 //      case IntegerHolder(var i) when i < 1000 -> i + " is medium";
-//      case Integer i when i >= 100000 -> i + " is big";
-//      case IntegerHolder(var i) when i >= 100000 -> i + " is big";
+//      case Integer i when i >= 1000 -> i + " is big";
+//      case IntegerHolder(var i) when i >= 1000 -> i + " is big";
 //      default -> "neither big or small";
 //    };
 //  }
