@@ -1,4 +1,4 @@
-//package comsysto.talks.demomaven;
+//package comsysto.talks.demojava;
 //
 //import java.util.Objects;
 //
