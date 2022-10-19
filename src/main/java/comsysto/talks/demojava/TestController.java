@@ -15,8 +15,8 @@
 //  @PostMapping
 //  Object createManifest(@RequestBody TestRequest request) {
 //    return switch (request) {
-//      case WithInteger s -> s.intValue();
-//      case WithString s -> s.stringValue();
+//      case WithInteger(var value) -> value * 1000;
+//      case WithString(var value) -> value.toUpperCase();
 //      case WithComplexType(ComplexType(var x, var y)) -> x + y;
 //      case WithGenericType<?>(Integer x) -> x * 1000;
 //      case WithGenericType<?>(String x) -> x.toUpperCase();
