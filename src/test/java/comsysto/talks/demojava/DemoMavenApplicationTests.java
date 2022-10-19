@@ -1,4 +1,4 @@
-package comsysto.talks.demomaven;
+package comsysto.talks.demojava;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
